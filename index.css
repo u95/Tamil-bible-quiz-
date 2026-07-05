@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@400;600;700&family=Inter:wght@400;550;600;700;850&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Hind Madurai", ui-sans-serif, system-ui, sans-serif;
+  --font-tamil: "Hind Madurai", sans-serif;
+}
