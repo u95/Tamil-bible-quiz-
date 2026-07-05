@@ -1,0 +1,6 @@
+{
+  "name": "Bible Tamil Quiz - விவிலிய வினாடி வினா",
+  "description": "A fully interactive, colorful Tamil Bible Quiz application featuring multiple categories (Old Testament, New Testament, Parables, Characters), 10 levels per category, progress tracking, and a built-in Blogger HTML/CSS/JS template exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
